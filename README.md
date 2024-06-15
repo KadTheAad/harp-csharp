@@ -36,7 +36,7 @@ public static void Main(string[] args)
     // Run the Harp protocol on both instances
     harp.Run();
     harp2.Run();
-        }
+}
 ```
 
 ## Contributing
